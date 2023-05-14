@@ -1,4 +1,11 @@
 # OS-Challenge
+## 👋 운영
+- 스터디 주제: 운영체제
+- 총 인원 수: 4명
+- 운영 기간: 23.04.20 ~ 23.05.18 ( 5주: 4주 발표 + [1주 모의 면접](https://github.com/CS-Challenge/OS-Challenge/wiki/%EB%A9%B4%EC%A0%91-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%A7%84%ED%96%89-%EB%B0%A9%EC%8B%9D) )
+- 모임 날짜: 매주 목요일 오후 7시 (2시간 ~ 3시간), 온라인
+- 보증금: 3만원 (스터디 종료 후 벌금 제외한 보증금 모두 반환)
+
 ## 📍규칙
 [Wiki 페이지](https://github.com/CS-Challenge/OS-Challenge/wiki/%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B7%9C%EC%B9%99) 참고
 
