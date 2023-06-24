@@ -348,3 +348,37 @@
 <summary>정답</summary>
 **4️. 모두 가능**
 </details>
+
+
+---
+
+<br>
+
+
+### [ JAVA의 동기화 처리 방법 ]
+#### Q1. race condition 방지를 위해 보장되어야 하는 두 가지 속성은?
+
+<details>
+<summary>정답</summary>
+
+**원자성과 가시성**
+
+</details>
+
+#### Q2. synchronized 키워드 사용시에 주의할 점 2가지는?
+<details>
+<summary>정답</summary>
+
+**대기 스레드로 인한 성능저하, 데드락 / 싱크로나이즈드 블록 내에서 참조객체를 수정하는 것, 메소드전체가 아닌, 객체레벌로 지정한다.**
+
+</details>
+
+#### Q3. atmoicReference 는 어떤 방식의 **_1) 동기화_**인지 그리고 내부에서 사용되는 두가지 **_2) 메커니즘_**은?
+
+<details>
+<summary>정답</summary>
+
+**1. 논블로킹 방식 2. CAS알고리즘과 volatile키워드**
+
+</details>
+
